@@ -1,0 +1,38 @@
+.bg-container {
+  background-color: #ffd569;
+  padding: 30px;
+}
+.bg-card-cont {
+  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.eaf-fruit-img {
+  height: 200px;
+}
+.eat-fruit-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.btn-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  height: 40px;
+  width: 130px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-top: 13px;
+  margin-bottom: 30px;
+}
